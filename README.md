@@ -2,7 +2,7 @@
 
 An interactive treasury liquidity model built to forecast operational cash flow, runway solvency, and working capital shocks using the direct cash flow method.
 
-🔗 **Live Interactive Demo:** https://13weekcashrunway.netlify.app/
+🔗 **Live Interactive Demo:** https://thirteenweekcashrunway.netlify.app/
 
 ---
 
